@@ -1,0 +1,6 @@
+{
+  "name": "Studuino:bit IDE",
+  "description": "Studuino:bit用のモダンなPython＆ブロックプログラミング開発環境。リアルタイムモニタリング、コード転送、自動保存、チュートリアルなどの機能を搭載。",
+  "requestFramePermissions": ["usb"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
